@@ -1,3 +1,5 @@
+//follow this link to play with Karel the Robot: https://stanford.edu/~cpiech/karel/ide.html
+
 function main(){
    beepersRight();
    goUpTurnLeft();
