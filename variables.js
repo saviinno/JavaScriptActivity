@@ -34,6 +34,8 @@ alert(mess);
 //alert() stops all interaction with the browser until the message is dismissed while console. log() just prints the message to the console.
 
 //////
+
+//swap variables
   var a = "3";
   var b = "8";
 
